@@ -1,6 +1,6 @@
 # Hello👋 Welcome to my Github page!
 
-I am a recent graduate of a 12-week, fully virtual, Web Development bootcamp though UCSD extension. All instruction and materials were provided through Zoom, GitHub, GitLab, Google Drive, and Slack due to the COVID-19 crises.
+I am a recent graduate of a 12-week, fully virtual, Web Development bootcamp though UCSD extension. All instruction and materials were provided through Zoom, GitHub, GitLab, Google Drive, and Slack due to the COVID-19 crisis.
 
 The bootcamp covered the fundementals of coding, including Git, HTML, CSS (including Bootstrap & Materialize), Javascript, Web-API's, Third-Party API's, Server-Side API's, Node Js, MySQL, Express, Mongo DB, mongoose, and REACT.
 
