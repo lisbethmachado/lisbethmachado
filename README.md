@@ -8,7 +8,7 @@ The bootcamp covered the fundementals of coding, including Git, HTML, CSS (inclu
 
 
 ## Goals
-As a passionate learner, I am excited and driven to launch a STEM career by constinueing to create and collaborate on dynamic web applicstions.
+As a passionate learner, I am excited and driven to launch a STEM career by continuing to create and collaborate on dynamic web applicstions.
 
 ## Contact
 email
