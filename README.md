@@ -4,11 +4,13 @@ I am a passionate creator and collaborator! :mortar_board: I recently earned my 
 
 ## Technologies :computer:
 
-I have experience creating my vision of a web application independently, as well as, collaborating with a group on complex projects, throughout the entire development lifecycle. My Repositories are a collection of interactive web applications I've built and contributed on, while meeting deadlines, using technologies such as Git, HTML, CSS, Javascript, Web-API's, Third-Party API's, Server-Side API's, NodeJs, MySQL, Express, Handlebars, Mongo DB, mongoose, and ReactJS. 
+I have experience creating my vision of a web application independently, as well as, collaborating with a group on complex projects, throughout the entire development lifecycle.
+
+My Repositories are a collection of interactive web applications I've built and contributed on, while meeting deadlines, using technologies such as Git, HTML, CSS, Javascript, Web-API's, Third-Party API's, Server-Side API's, NodeJs, MySQL, Express, Handlebars, Mongo DB, mongoose, and ReactJS. 
 
 ## Background :hourglass_flowing_sand:
 
-In past roles, I have been praised for my can-do attitude, creativity and problem solving skills. With a strong background in Customer Service, and as a goal-driven learner, I am looking to expand and apply my technical skills by continuing to create and collaborate on dynamic web applications. :octocat:
+In past roles, I have been praised for my can-do attitude, creativity and problem solving skills. :octocat: With a strong background in Customer Service, and as a goal-driven learner, I am looking to expand and apply my technical skills by continuing to create and collaborate on dynamic web applications.
 
 ## Get In Touch :inbox_tray:
 
