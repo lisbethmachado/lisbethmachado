@@ -10,7 +10,8 @@ With a strong background in Customer Service and a passion for learning, I am mo
 
 ## Get In Touch :inbox_tray:
 lisbeth.webdev@gmail.com
-https://linkedin.com/lisbethdmachado
+
+https://www.linkedin.com/in/lisbethdmachado/
 
 
 
