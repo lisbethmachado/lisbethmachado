@@ -1,17 +1,22 @@
 # Hello👋 Welcome to my Github! :rocket:
 
-I am a recent graduate of a 12-week, fully virtual, Web Development bootcamp though UCSD extension. :mortar_board: All instruction and materials were provided through Zoom, GitHub, GitLab, Google Drive, and Slack due to the COVID-19 crisis.
+I am a passionate creator and collaborator! :mortar_board: I recently earned my Full Stack Web Development Certificate from the University of California, San Diego Extension. All instruction and materials were provided through Zoom, Slack, Google Drive, GitLab and GitHub, due to the COVID-19 crisis.
 
-The bootcamp covered the fundementals of coding, including Git, HTML, CSS (including Bootstrap & Materialize), Javascript, Web-API's, Third-Party API's, Server-Side API's, Node Js, MySQL, Express, Mongo DB, mongoose, and REACT. :computer:
+## Technologies :computer:
 
-I have experience working independently on building my version of a website, as well as, working in a group on complex projects throughout the entire development lifecycle. In past roles, I have been praised for my can-do attitude, creativity and problem solving skills. :thought_balloon:
+I have experience creating my vision of a web application independently, as well as, collaborating with a group on complex projects, throughout the entire development lifecycle. My Repositories are a collection of interactive web applications I've built and contributed on, while meeting deadlines, using technologies such as Git, HTML, CSS, Javascript, Web-API's, Third-Party API's, Server-Side API's, NodeJs, MySQL, Express, Handlebars, Mongo DB, mongoose, and ReactJS. 
 
-With a strong background in Customer Service and a passion for learning, I am motivated to launch a STEM career by continuing to create and collaborate on dynamic web applications. :octocat:
+# Background :hourglass_flowing_sand:
+
+In past roles, I have been praised for my can-do attitude, creativity and problem solving skills. With a strong background in Customer Service, and as a goal-driven learner, I am looking to expand and apply my technical skills by continuing to create and collaborate on dynamic web applications. :octocat:
 
 ## Get In Touch :inbox_tray:
+
 lisbeth.webdev@gmail.com
 
 https://www.linkedin.com/in/lisbethdmachado/
+
+https://lisbethmachado.github.io/react-portfolio/
 
 
 
