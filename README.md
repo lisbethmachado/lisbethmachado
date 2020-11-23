@@ -8,7 +8,7 @@ I have experience creating my vision of a mobile or web application independentl
 
 My Repositories are a collection of interactive web applications I've built and contributed on, while meeting deadlines, using technologies such as Git, HTML, CSS, Javascript, Web-API's, Third-Party API's, Server-Side API's, NodeJs, MySQL, Express, Handlebars, Mongo DB, mongoose, and ReactJS. 
 
-## Background :hourglass_flowing_sand:
+## Background :books:
 
 In past roles, I have been praised for my can-do attitude, creativity and problem solving skills. :octocat: With a strong background in Customer Service, and as a goal-driven learner, I am looking to expand and apply my technical skills by continuing to create and collaborate on dynamic web applications.
 
