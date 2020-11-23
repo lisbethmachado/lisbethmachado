@@ -10,7 +10,7 @@ My Repositories are a collection of interactive web applications I've built and 
 
 ## Background :books:
 
-In past roles, I have been praised for my can-do attitude, creativity and problem solving skills. :octocat: With a strong background in Customer Service, and as a goal-driven learner, I am looking to expand and apply my technical skills by continuing to create and collaborate on dynamic web applications.
+I have a strong background in Customer Service and enjoy applying creativity and innovation to solving problems. :octocat: I look to create and collaborate on dynamic web applications.
 
 ## Get In Touch :inbox_tray:
 
