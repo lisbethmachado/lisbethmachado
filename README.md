@@ -18,8 +18,6 @@ I have a strong background in Customer Service and enjoy applying innovation and
 
 :paperclip:: https://lisbethmachado.github.io/
 
-https://www.linkedin.com/in/lisbethdmachado/
-
 
 <!--
 **lisbethmachado/lisbethmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
