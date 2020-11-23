@@ -10,7 +10,7 @@ My Repositories are a collection of interactive web applications I've built and 
 
 ## Background :books:
 
-I have a strong background in Customer Service and enjoy applying creativity and innovation to solve problems. I look to create and collaborate on dynamic web applications. :octocat:
+I have a strong background in Customer Service and enjoy applying innovation and creativity to solve problems. I look to collaborate on dynamic mobile and web applications. :octocat:
 
 ## Get In Touch :inbox_tray:
 
