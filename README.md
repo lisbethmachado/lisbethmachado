@@ -12,12 +12,11 @@ I have a strong background in Customer Service and enjoy applying innovation and
 
 ## Get In Touch :inbox_tray:
 
-lisbeth.webdev@gmail.com
+:e-mail:: lisbeth.webdev@gmail.com
+
+:paperclip:: https://lisbethmachado.github.io/
 
 https://www.linkedin.com/in/lisbethdmachado/
-
-https://lisbethmachado.github.io/react-portfolio/
-
 
 
 <!--
