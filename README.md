@@ -14,9 +14,9 @@ I have a strong background in Customer Service and enjoy applying innovation and
 
 ## Get In Touch :inbox_tray:
 
-:e-mail:: lisbeth.webdev@gmail.com
+:e-mail: lisbeth.webdev@gmail.com
 
-:paperclip:: https://lisbethmachado.github.io/
+:paperclip: https://lisbethmachado.github.io/
 
 
 <!--
