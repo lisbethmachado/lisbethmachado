@@ -1,6 +1,6 @@
-# Hello👋 Welcome to my Github! :dizzy:
+# Welcome to my Github! :dizzy:
 
-I am a passionate creator and collaborator! :mortar_board: I recently earned my Full Stack Web Development Certificate from the University of California, San Diego. All instruction and materials were provided through Zoom, Slack, Google Drive, GitLab and GitHub, due to the COVID-19 crisis.
+Hello👋 I am a passionate creator and collaborator! :mortar_board: I recently earned my Full Stack Web Development Certificate from the University of California, San Diego. All instruction and materials were provided through Zoom, Slack, Google Drive, GitLab and GitHub, due to the COVID-19 crisis.
 
 ## Technologies :computer:
 
