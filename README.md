@@ -8,7 +8,9 @@ My Repositories are a collection of interactive web applications I've built and 
 
 ## Background :books:
 
-I have a strong background in Customer Service and enjoy applying innovation and creativity to solve problems. I have experience creating my vision of mobile and web applications independently, as well as, collaborating with a team, throughout the entire development lifecycle. I look to collaborate on dynamic mobile and web applications. :octocat:
+I have a strong background in Customer Service and enjoy applying innovation and creativity to solve problems. I have experience creating my vision of mobile and web applications independently, as well as, collaborating with a team, throughout the entire development lifecycle.
+
+:sparkles: I look to collaborate on dynamic mobile and web applications. :octocat:
 
 ## Get In Touch :inbox_tray:
 
